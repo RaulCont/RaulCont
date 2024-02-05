@@ -9,7 +9,7 @@
        alt="snake" /></a>
 </div>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,nodejs,react,redux,ts" />
 </div>
 -----
 <details>
