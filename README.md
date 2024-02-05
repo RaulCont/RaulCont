@@ -16,6 +16,7 @@
   development. My primary motivation is to tackle complex challenges and find innovative solutions that enhance the performance and 
   efficiency of applications.
 </div>
+<br>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,nodejs,react,redux,ts" />
 </div>
