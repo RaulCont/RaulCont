@@ -11,6 +11,10 @@
 
 <div>
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+  <br>
+  Full Stack Developer with a particular focus on the back-end, possessing strong skills that span the entire spectrum of web 
+  development. My primary motivation is to tackle complex challenges and find innovative solutions that enhance the performance and 
+  efficiency of applications.
 </div>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,nodejs,react,redux,ts" />
