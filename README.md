@@ -8,6 +8,10 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<div>
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+</div>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,nodejs,react,redux,ts" />
 </div>
