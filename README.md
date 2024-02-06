@@ -24,6 +24,11 @@
 <div> 
   <a>pinned</a>
 </div>
+
+<div>
+  📍 Trip in Sight repository: <a href="https://github.com/RaulCont/TripInSight_server">Repo</a>
+</div>
+
 -----
 <details>
   <summary>☎️ contact me</summary>
@@ -48,11 +53,6 @@
   </samp>
 </div>
 </details>
-
-
-<div>
-  📍 Trip in Sight repository: <a href="https://github.com/RaulCont/TripInSight_server">Repo</a>
-</div>
 
 </details>
 <br/>
