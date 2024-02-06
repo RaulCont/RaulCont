@@ -21,10 +21,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,nodejs,react,redux,ts" />
 </div>
 
-<div> 
-  <a>pinned</a>
-</div>
-
 <div>
   Some of my projects: <br>
   📍 Trip in Sight repository: <a href="https://github.com/RaulCont/TripInSight_server">🌍</a> <br>
