@@ -26,7 +26,9 @@
 </div>
 
 <div>
-  📍 Trip in Sight repository: <a href="https://github.com/RaulCont/TripInSight_server">Repo</a>
+  Some of my projects:
+  📍 Trip in Sight repository: <a href="https://github.com/RaulCont/TripInSight_server">🌍</a>
+  📍 Pokemon PI repository: <a href="https:https://github.com/RaulCont/PI-Pokemon">🐯</a>  
 </div>
 
 -----
