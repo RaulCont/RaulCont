@@ -26,7 +26,7 @@
 </div>
 
 <div>
-  Some of my projects:
+  Some of my projects: <br>
   📍 Trip in Sight repository: <a href="https://github.com/RaulCont/TripInSight_server">🌍</a> <br>
   📍 Pokemon PI repository: <a href="https:https://github.com/RaulCont/PI-Pokemon">🐯</a>  
 </div>
